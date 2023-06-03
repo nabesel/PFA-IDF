@@ -1,0 +1,109 @@
+id,Phrase,Opération
+1,بغيت نعرف الصولد ديالي,consultation du solde
+2,بغيت نعرف الرصيد ديالي,consultation du solde
+3,بغيت نطالع على الرصيد ,consultation du solde
+4,شحال عندي فلحساب,consultation du solde
+5,مشحال عندي فلحساب,consultation du solde
+6,شحال باقيلي ديال لفلوس,consultation du solde
+7,لحساب,consultation du solde
+8,الرصيد,consultation du solde
+9,حسابي,consultation du solde
+10,شحال باقيلي ف حسابي,consultation du solde
+11,الاطلاع على رصيدي,consultation du solde
+12,شوفلي شحال باقيلي ف لحساب,consultation du solde
+13,شوفلي شحال باقيلي دلفلوس,consultation du solde
+14,قولي الرصيد ديالي,consultation du solde
+15,شحال جامع د لفلوس,consultation du solde
+16,الصولد,consultation du solde
+17,شحال د لفلوس مازالا ف لحساب نتاعي,consultation du solde
+18,شحال عندي مازال د لفلوس,consultation du solde
+19,بغيت نصيفط لفوس,virement
+20,بغيت نسيفط لفلوس,virement
+21,بغيت نصرد الفلوس,virement
+22,بغيت نرسل لفلوس,virement
+23, بغيت ندير فيرمون,virement
+24,صيفط لفلوس,virement
+25,صرد لفلوس,virement
+26,صيفطليا لفلوس,virement
+27,عطي لفلوس,virement
+28,صردليا لفلوس,virement
+29,نصيفط شي فلوس,virement
+30,عدل ليا واحد لفيرمون,virement
+31,ندير تحويل بنكي,virement
+32,حوالة بنكية ,virement
+33,ارسال النقود,virement
+34,شي بركة د لفلوس,virement
+35,خود من فلوسي و عطي,virement
+36,دير ليا فيرمون,virement
+37,شنو هوما اخر لعمليات لي درت,consultation derniers virements
+38,شنو هوما المخاسر ديالي,consultation derniers virements
+39,المعاملات لي درت,consultation derniers virements
+40,شنا هوما المعاملات لي قمت بهم,consultation derniers virements
+41,العمليات لي درت مؤخرا,consultation derniers virements
+42,فاش خسرت لفلوس مؤخرا,consultation derniers virements
+43,فين مشاولي لفلوس,consultation derniers virements
+44,منين جاوني لفلوس,consultation derniers virements
+45,شكون صافطلي لفلوس,consultation derniers virements
+46,منين دخلولي لفلوس,consultation derniers virements
+47,فين خرجولي لفلوس,consultation derniers virements
+48,المعاملات السابقة,consultation derniers virements
+49,التحويلات الفارطة,consultation derniers virements
+50,تاريخ معاملاتي,consultation derniers virements
+51,المخاسر ديالي,consultation derniers virements
+52,شوف آخر التحويلات لي درت,consultation derniers virements
+53,فتي عليا المعاملات القديمة نتاعي,consultation derniers virements
+54,قولي المداخيل و المصاريف الأخيرة,consultation derniers virements
+55,بغيت نشوف الاقتطاعات,consultation derniers virements
+56,خلصلي لفاتورة ديال لما,payer une facture
+57,لفاتورة ديال الضو,payer une facture
+58,لفاكتورة,payer une facture
+59,لابونمو,payer une facture
+60,لفاتور د تيليفون,payer une facture
+61,فاكتير,payer une facture
+62,لورقة ديال لما,payer une facture
+63,لورقا,payer une facture
+64,الاستهلاك الشهري,payer une facture
+65,لكونصوماصيون د شهرلي فات,payer une facture
+66,خلص لي الما ,payer une facture
+67,بغيت نخلص الضريبة ,payer une facture
+68,خلص لي الضو,payer une facture
+69,خلص لي لابونمون ,payer une facture
+70,بغيت نخلص لما,payer une facture
+71,بغايت نخالص تيكي,payer une facture
+72,بغيت دفتر الشيكات,demander une carte bancaire ou un carnet de chèque
+73,صيفطولي دفتر الشيكات,demander une carte bancaire ou un carnet de chèque
+74,عطيوني لكارني د شيك,demander une carte bancaire ou un carnet de chèque
+75,بغيت بطاقة بنكية جديدة,demander une carte bancaire ou un carnet de chèque
+76,صيفطولي البطاقة البنكية,demander une carte bancaire ou un carnet de chèque
+77,رسلو ليا لاكارط كيشي,demander une carte bancaire ou un carnet de chèque
+78,تلفاتلي لاكارط كيشي,demander une carte bancaire ou un carnet de chèque
+79,خاصكم تصيفطولي لاكارط,demander une carte bancaire ou un carnet de chèque
+80,لكارط كيشي,demander une carte bancaire ou un carnet de chèque
+81,رسلو لي دفتر الشيكات,demander une carte bancaire ou un carnet de chèque
+82,لقد أضعت بطاقتي البنكية,demander une carte bancaire ou un carnet de chèque
+83,قمت بتضييع دفتر الشيكات الخاص بي,demander une carte bancaire ou un carnet de chèque
+84,جيبولي لاكارط ديالي,demander une carte bancaire ou un carnet de chèque
+85,صردلي لاكارط كيشي,demander une carte bancaire ou un carnet de chèque
+86,صايفطولي لكارني تشيك,demander une carte bancaire ou un carnet de chèque
+87,بغيت لاكارط نتاعي,demander une carte bancaire ou un carnet de chèque
+88,صيفطوليا شيكات ديالتي,demander une carte bancaire ou un carnet de chèque
+89,واش تقدرو تسيفطولي لكارطة دلفلوس,demander une carte bancaire ou un carnet de chèque
+90,بغيت لكارت باش نخرج الفلوس,demander une carte bancaire ou un carnet de chèque
+91,خاصني دفتر الشيكات باش نسحب الفلوس,demander une carte bancaire ou un carnet de chèque
+92,بغيت نعرف رقم حسابي,savoir le numéro de RIB
+93,أريد أن أعرف رقم حسابي,savoir le numéro de RIB
+94,بغيت نعرف الرقم الخاص بيا,savoir le numéro de RIB
+95,شحال الرقم د حسابي,savoir le numéro de RIB
+96,شحال ريب ديالي,savoir le numéro de RIB
+97,شنو هو الريب ديالي,savoir le numéro de RIB
+98,ما هو الرقم الخاص بي,savoir le numéro de RIB
+99,شنو هوا الرقم نتاعي,savoir le numéro de RIB
+100,بغيت نعرف ريب نتاعي,savoir le numéro de RIB
+101,ما هو بيان التعريف البنكي الخاص بي,savoir le numéro de RIB
+102,رقمي الشخصي,savoir le numéro de RIB
+103,واش ممكن تقولي رقمي شخصي,savoir le numéro de RIB
+104,قولي الريب الخاص بيا,savoir le numéro de RIB
+105,خبرني بالرقم نتاعي,savoir le numéro de RIB
+106,كولي راقم دلحساب,savoir le numéro de RIB
+107,شنو هوا الرقم لي مسجل بيه,savoir le numéro de RIB
+108,فتي عليا رقم التعريف البنكي,savoir le numéro de RIB
